@@ -1,0 +1,1 @@
+So, what are you gonna do on this thing? simple. First, get a random short video in your stuff, name it Video.mp4 and put it in the same foledr as this. then, run the exe. just that, i just want to know if it even works lol
