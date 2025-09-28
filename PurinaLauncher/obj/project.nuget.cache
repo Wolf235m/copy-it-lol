@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wUQfPEmdTrk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoshimi AN Takanashi\\Downloads\\PurinaLauncher\\Furina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoshimi AN Takanashi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Yoshimi AN Takanashi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Yoshimi AN Takanashi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Yoshimi AN Takanashi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

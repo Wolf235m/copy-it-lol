@@ -1,0 +1,5 @@
+<Settings>
+  <Video>Video.mp4</Video>
+  <ShellFallback>userinit.exe</ShellFallback>
+  <TimeoutSeconds>15</TimeoutSeconds>
+</Settings>

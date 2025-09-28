@@ -1,0 +1,17 @@
+<Window x:Class="MythicBootShell.WeAreDumb"
+        WindowStyle="None"
+        WindowState="Maximized"
+        AllowsTransparency="True"
+        Background="Black"
+        Topmost="True"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Loaded="Window_Loaded">
+    <Grid>
+        <MediaElement Name="BootVideo"
+                      LoadedBehavior="Manual"
+                      Stretch="Fill"
+                      MediaEnded="BootVideo_MediaEnded"
+                      MediaFailed="BootVideo_MediaFailed"/>
+    </Grid>
+</Window>
